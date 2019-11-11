@@ -10,4 +10,4 @@ Yksinkertainen komentoriviltä pelattava matopeli.
 
 Lataa projektihakemisto, ja anna projektihakemistosta komento: <br> dotnet run
 
-![matopeli](https://github.com/jojuparp/matopeli/tree/master/kuvat/matopeli.png)
+![Matopeli](https://github.com/jojuparp/matopeli/blob/master/kuvat/matopeli.png)
