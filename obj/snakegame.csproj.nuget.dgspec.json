@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joni\\devel\\dotnet\\snakegame\\snakegame.csproj": {}
+    "C:\\Users\\Joni\\devel\\dotnet\\matopeli\\snakegame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joni\\devel\\dotnet\\snakegame\\snakegame.csproj": {
+    "C:\\Users\\Joni\\devel\\dotnet\\matopeli\\snakegame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joni\\devel\\dotnet\\snakegame\\snakegame.csproj",
+        "projectUniqueName": "C:\\Users\\Joni\\devel\\dotnet\\matopeli\\snakegame.csproj",
         "projectName": "snakegame",
-        "projectPath": "C:\\Users\\Joni\\devel\\dotnet\\snakegame\\snakegame.csproj",
+        "projectPath": "C:\\Users\\Joni\\devel\\dotnet\\matopeli\\snakegame.csproj",
         "packagesPath": "C:\\Users\\Joni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joni\\devel\\dotnet\\snakegame\\obj\\",
+        "outputPath": "C:\\Users\\Joni\\devel\\dotnet\\matopeli\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joni\\AppData\\Roaming\\NuGet\\NuGet.Config",
